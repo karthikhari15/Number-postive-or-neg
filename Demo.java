@@ -8,11 +8,11 @@ import java.io.*;
         int number=1;
         if(number > 0)
         {
-            System.out.println(number+"Positive");
+            System.out.println("Positive");
         }
         else if(number < 0)
         {
-            System.out.println(number+"Negative");
+            System.out.println("Negative");
         }
        
     }
