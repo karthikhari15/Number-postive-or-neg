@@ -8,15 +8,12 @@ import java.io.*;
         int number=1;
         if(number > 0)
         {
-            System.out.println(number+" is a positive number");
+            System.out.println(number+"Positive");
         }
         else if(number < 0)
         {
-            System.out.println(number+" is a negative number");
+            System.out.println(number+"Negative");
         }
-        else
-        {
-            System.out.println(number+" is zero");
-        }
+       
     }
 }
